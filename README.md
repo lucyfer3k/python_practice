@@ -9,4 +9,4 @@ Here be my simple python scripts to relearn and improve my python skills.
 6. Acronyms
 7. Rock Paper Scissors <- *
 
-* - currently work in progress
+* currently work in progress
