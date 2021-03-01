@@ -1,0 +1,4 @@
+readline() function reads a line of the file and return it in the form of the
+string. It takes a parameter n, which specifies the maximum number of bytes
+that will be read. However, does not reads more than one line, even if
+n exceeds the length of the line. It will be.
