@@ -1,5 +1,5 @@
 # python
-Here be my simple python scripts to relearn and improve my python skills.
+Some simple python scripts.
 
 1. Hello world
 2. Odd or Even
